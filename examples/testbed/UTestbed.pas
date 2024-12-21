@@ -536,7 +536,7 @@ var
 begin
   sfError_setCallback(ErrorCallback, nil);
 
-  LExample := exLua01;
+  LExample := exZipFile01;
 
   case LExample of
     exZipFile01     : ZipFile01();
