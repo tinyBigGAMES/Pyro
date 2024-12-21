@@ -79,3 +79,8 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+# Pyro
+bin/data.zip
+*.dsv
+zip_latest_commit.cmd
