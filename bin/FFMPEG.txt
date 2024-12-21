@@ -1,4 +1,4 @@
-PSDL uses FFmpeg.exe for audio/video conversion.
+Pyro uses FFmpeg.exe for audio/video conversion.
 
 1. Download here:
 https://github.com/BtbN/FFmpeg-Builds/releases (win64 version)
